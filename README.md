@@ -1,1 +1,1 @@
-`<marquee>waffles</marquee>`
+![](https://i.imgur.com/LwFrOY3.png)
